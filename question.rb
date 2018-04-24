@@ -15,5 +15,3 @@ class Question
 
 end
 
-# something = Question.new
-# puts something.verify_input($stdin.gets.chomp.to_i)

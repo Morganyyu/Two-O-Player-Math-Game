@@ -15,6 +15,6 @@ class Player
   end
 
   def show_lives
-    puts ""
+    "#{@lives}/3"
   end
 end
